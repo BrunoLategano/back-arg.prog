@@ -10,7 +10,7 @@ spring:
       matching-strategy: ant-path-matcher
   datasource:
     password: 
-    url: jdbc:mysql://localhost:3306/portfoliodb
+    url: jdbc:mysql://ujgkl8ucdwkmuasn:fBRRfsB3HSa3cih5md9W@bckhd9hm5i74c5596fla-mysql.services.clever-cloud.com:3306/bckhd9hm5i74c5596fla
     username: root
   jpa:
     hibernate:
